@@ -10,5 +10,6 @@ while (i < 2):
         thirsty=input("are you thirsty?")
         if thirsty=="yes":
             print("drink water")
+            print("drink soda as well")
         print("Go to sleep")
     i+=1
