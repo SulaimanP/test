@@ -4,6 +4,7 @@ while (i < 2):
     if hungry == "yes":
         print("Eat kabob")
         print("Eat chocolate cake")
+        print("Eat gummy bears")
     elif hungry == "i am fasting":
         print("Same")
     else:
