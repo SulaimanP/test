@@ -7,5 +7,8 @@ while (i < 2):
     elif hungry == "i am fasting":
         print("Same")
     else:
+        thirsty=input("are you thirsty?")
+        if thirsty=="yes":
+            print("drink water")
         print("Go to sleep")
     i+=1
